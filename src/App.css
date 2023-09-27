@@ -4,24 +4,3 @@
   padding: 2rem;
   text-align: center;
 }
-
-.card {
-  border: 1px solid #a5a5a5;
-  padding: 1rem;
-  border-radius: 1rem;
-  transition: 0.115s
-}
-
-.card:hover{
-  box-shadow: 0.2rem 0.2rem #7e8185;
-  translate: -2px -2px;
-}
-
-.card > h2 {
-  font-size: 2rem
-}
-
-.card > img{
-  border-radius: 1rem;
-}
-
